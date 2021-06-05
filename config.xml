@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>ResetSubmitted</name>
+        <type>plugin</type>
+        <creationDate>2021-06-05</creationDate>
+        <lastUpdate>2021-06-05</lastUpdate>
+        <author>Denis Chenu</author>
+        <authorUrl>https://www.sondages.pro</authorUrl>
+        <version>1.0.0</version>
+        <license>GNU General Public License v3.0</license>
+        <description><![CDATA[With token answer persistence : reset submitted date when reloading a previously submitted response.]]></description>
+    </metadata>
+
+    <compatibility>
+        <version>3</version>
+    </compatibility>
+</config>
